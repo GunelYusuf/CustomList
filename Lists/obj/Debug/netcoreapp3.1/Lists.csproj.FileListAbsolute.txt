@@ -1,0 +1,13 @@
+/Users/gunelyusubova/Projects/Lists/Lists/bin/Debug/netcoreapp3.1/Lists.deps.json
+/Users/gunelyusubova/Projects/Lists/Lists/bin/Debug/netcoreapp3.1/Lists.runtimeconfig.json
+/Users/gunelyusubova/Projects/Lists/Lists/bin/Debug/netcoreapp3.1/Lists.runtimeconfig.dev.json
+/Users/gunelyusubova/Projects/Lists/Lists/bin/Debug/netcoreapp3.1/Lists.dll
+/Users/gunelyusubova/Projects/Lists/Lists/bin/Debug/netcoreapp3.1/Lists.pdb
+/Users/gunelyusubova/Projects/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.csproj.AssemblyReference.cache
+/Users/gunelyusubova/Projects/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunelyusubova/Projects/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.AssemblyInfoInputs.cache
+/Users/gunelyusubova/Projects/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.AssemblyInfo.cs
+/Users/gunelyusubova/Projects/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.csproj.CoreCompileInputs.cache
+/Users/gunelyusubova/Projects/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.dll
+/Users/gunelyusubova/Projects/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.pdb
+/Users/gunelyusubova/Projects/Lists/Lists/obj/Debug/netcoreapp3.1/Lists.genruntimeconfig.cache
